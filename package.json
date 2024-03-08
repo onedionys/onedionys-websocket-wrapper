@@ -1,0 +1,41 @@
+{
+  "name": "onedionys-websocket-wrapper",
+  "version": "1.0.0",
+  "description": "One Dionys (WebSocket Wrapper) - Abstraction to communicate over WebSocket with easier syntax.",
+  "main": "src/websocket-wrapper.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-websocket-wrapper.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "websocket-wrapper"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-websocket-wrapper/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-websocket-wrapper#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "onedionys-analytics-integration": "^1.0.0",
+    "onedionys-input-autocomplete": "^1.0.0",
+    "onedionys-modal-dialog-component": "^1.0.0",
+    "onedionys-progress-bar-component": "^1.0.0",
+    "onedionys-social-sharing-utilities": "^1.0.0"
+  }
+}
