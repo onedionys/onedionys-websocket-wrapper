@@ -57,6 +57,7 @@ socket.send('Hello, server!');
 * v1.0.0 : 08 March 2024
 * v1.0.1 : 11 March 2024
 * v4.0.0 : 11 March 2024
+* v4.0.1 : 12 March 2024
 
 ## 🧑 Author
 

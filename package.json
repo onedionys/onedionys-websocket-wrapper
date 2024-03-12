@@ -1,6 +1,6 @@
 {
   "name": "onedionys-websocket-wrapper",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (WebSocket Wrapper) - Abstraction to communicate over WebSocket with easier syntax.",
   "main": "src/websocket-wrapper.js",
   "directories": {
